@@ -1,0 +1,85 @@
+#form-div{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 15.5rem;
+}
+#first-name-input{
+    width: 15.5rem;
+    margin:1rem 0 0 0;
+}
+#submit-button{
+    width: 16rem;
+    margin:1rem 0 0 0;
+    
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.column{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.square{
+    height:200px ;
+    width: 500px;
+    background-color: #555;
+}
+.circle{
+    height:50px;
+    width:50px;
+    background-color:#ebe709;
+    border-radius: 50%;
+    position:absolute;
+    top: 230px;
+    left:260px;
+
+}
+.circle2{
+    height:50px;
+    width:50px;
+    background-color: #ce1370;
+    border-radius: 50%;
+    position:absolute;
+    top: 30px;
+    left:770px;
+}
+.circle3{
+    height:150px;
+    width:150px;
+    background-color: #ce1370;
+    border-radius: 50%;
+    position:absolute;
+    top: 130px;
+    left:575px;
+}
+.circle4{
+    height:150px;
+    width:150px;
+    background-color: #ebe709;
+    border-radius: 50%;
+    position:absolute;
+    top: 30px;
+    left:350px;
+}
+.circle5{
+    height:50px;
+    width:50px;
+    background-color: #ce1370;
+    border-radius: 50%;
+    position:absolute;
+    top: 165px;
+    left:150px;
+}
+.circle6{
+    height:50px;
+    width:50px;
+    background-color: #ce1370;
+    border-radius: 50%;
+    position:absolute;
+    top: 30px;
+    left:150px;
+}
