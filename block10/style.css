@@ -25,16 +25,16 @@
 }
 .square{
     height:200px ;
-    width: 500px;
-    background-color: #555;
+    width: 600px;
+    background-color: #449DD1;
 }
 .rectangle{
-    height:700px ;
-    width: 1700px;
-    background-color: #555;
+    height:630px ;
+    width: 1850px;
+    background-color: #449DD1;
     position: absolute;
     top:230px;
-    left:110px;
+    left:35px;
 }
 .circle{
     height:50px;
@@ -90,4 +90,122 @@
     position:absolute;
     top: 30px;
     left:150px;
+}
+.rectangle2{
+    height:30px ;
+    width: 1850px;
+    background-color: #7ee69d;
+    position: absolute;
+    top:870px;
+    left:35px;
+}
+.triangle{
+    width: 0;
+	height: 0;
+	border-left: 200px solid transparent;
+	border-right: 200px solid transparent;
+	border-bottom: 300px solid #7ee69d;
+    position: absolute;
+    top:560px;
+    left:1485px;
+}
+.triangle2{
+    width: 0;
+	height: 0;
+	border-left: 300px solid transparent;
+	border-right: 300px solid transparent;
+	border-bottom: 700px solid #0b6627;
+    position: absolute;
+    top:160px;
+    left:1100px;
+}
+.oval{
+    height: 50px;
+    width: 25px;
+    background-color: #08f8f8;
+    border-radius: 50%;
+    position:absolute;
+    top:720px;
+    left:80px;
+}
+.oval2{
+    height: 50px;
+    width: 25px;
+    background-color: #08f8f8;
+    border-radius: 50%;
+    position:absolute;
+    top:720px;
+    left:180px;
+}
+.oval3{
+    height: 50px;
+    width: 25px;
+    background-color: #08f8f8;
+    border-radius: 50%;
+    position:absolute;
+    top:720px;
+    left:280px;
+}
+.oval4{
+    height: 50px;
+    width: 25px;
+    background-color: #08f8f8;
+    border-radius: 50%;
+    position:absolute;
+    top:720px;
+    left:380px;
+}
+.oval5{
+    height: 50px;
+    width: 25px;
+    background-color: #08f8f8;
+    border-radius: 50%;
+    position:absolute;
+    top:720px;
+    left:480px;
+}
+.oval6{
+    height: 50px;
+    width: 25px;
+    background-color: #08f8f8;
+    border-radius: 50%;
+    position:absolute;
+    top:720px;
+    left:580px;
+}
+.oval7{
+    height: 50px;
+    width: 25px;
+    background-color: #6f7272;
+    border-radius: 50%;
+    position:absolute;
+    top:720px;
+    left:680px;
+}
+.oval8{
+    height: 50px;
+    width: 25px;
+    background-color: #6f7272;
+    border-radius: 50%;
+    position:absolute;
+    top:720px;
+    left:780px;
+}
+.oval9{
+    height: 50px;
+    width: 25px;
+    background-color: #6f7272;
+    border-radius: 50%;
+    position:absolute;
+    top:720px;
+    left:880px;
+}
+.oval10{
+    height: 50px;
+    width: 25px;
+    background-color: #6f7272;
+    border-radius: 50%;
+    position:absolute;
+    top:720px;
+    left:980px;
 }
