@@ -28,13 +28,21 @@
     width: 500px;
     background-color: #555;
 }
+.rectangle{
+    height:700px ;
+    width: 1700px;
+    background-color: #555;
+    position: absolute;
+    top:230px;
+    left:110px;
+}
 .circle{
     height:50px;
     width:50px;
     background-color:#ebe709;
     border-radius: 50%;
     position:absolute;
-    top: 230px;
+    top: 260px;
     left:260px;
 
 }
