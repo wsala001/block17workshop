@@ -117,7 +117,7 @@
 	border-bottom: 700px solid #0b6627;
     position: absolute;
     top:160px;
-    left:1100px;
+    left:1000px;
 }
 .oval{
     height: 50px;
@@ -208,4 +208,19 @@
     position:absolute;
     top:720px;
     left:980px;
+}
+.submit-email{
+    position: absolute;
+    top:1000px;
+    left:700px;
+
+}
+.text-input{
+    
+    width: 15rem;
+    margin:.5rem
+}
+#ty{
+    width: 20rem;
+    margin:.5rem;
 }
